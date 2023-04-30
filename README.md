@@ -18,7 +18,7 @@
 
 
 
-•	Created an interactive Excel dashboard to analyze and visualize road accident data.
+•	This is an interactive Excel dashboard to analyze and visualize road accident data.
 
 •	Implemented a filter panel to enable users to filter data by year and area (rural or urban) and used cards to display key statistics on casualties.
 
